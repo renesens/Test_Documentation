@@ -5,7 +5,7 @@ http://itcareer.pythonanywhere.com
 Windows 11 Chrome v 106.0.5249.62
 
 # Checklist and bug reports 
-https://docs.google.com/spreadsheets/d/1X263Fdo5oqqHBoUZ3Vclf1vxHvjuzAfENBIW8qD_SpQ/edit#gid=0
+[RegistrationForm](https://docs.google.com/spreadsheets/d/1X263Fdo5oqqHBoUZ3Vclf1vxHvjuzAfENBIW8qD_SpQ/edit#gid=1816986114)
 
 # Requirements
 
