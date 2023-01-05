@@ -10,24 +10,18 @@ Windows 11 Chrome v 106.0.5249.62
 # Requirements
 
 ## Requirements for the field Name/Surname 
-> Number of characters from 2 to 128 inclusive
-> Special characters can only be "-", "." , "_" and space
-> Not case-sensitive
-> Latin characters and numbers only
-> The placeholder should disappear when the focus is set
-> Paste from the buffer is allowed
-> When you click on the box, the frame should turn blue, no tooltips pop up
-> If invalid wildcards are used, an error message will appear at the bottom of submit to indicate an error in the specific field
-> A script with allowed special characters will be sent
-> Can start and end with a number and a letter only
-> Any form of name is acceptable - full, short, double, diminutive
-> Move to the next field only via Tab
-> Extended characters are not allowed
-> Emoji cannot be used
-> Repetitive characters are possible except for special characters
-> Can only be written from letters and numbers
-> You can enter 'name', 'password' etc.
-> With large data (e.g. 127 characters) we do not see the beginning
+> Not case-sensitive 
+> Placeholder must disappear during focus setting  
+> Can be inserted from buffer  
+> When you click on the field, the frame should turn blue, no hints emerge  
+> If special characters are not valid, an error message is displayed at the bottom of the field after submit  
+> Can start and end only with a number and a letter  
+> Any form of name - full, short, double, diminutive  
+> Enter does not go to the next field, only through tab  
+> Recurring characters are possible except special characters  
+> Can only be written from letters and numbers 
+> You can enter 'name', 'password' and so on  
+> If you have big data (for example 127 characters), you don’t see the beginning
 
 ## Requirements for the  field Email 
 > There must be an "@" and a dot after it
