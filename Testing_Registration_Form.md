@@ -24,25 +24,26 @@ Windows 11 Chrome v 106.0.5249.62
 > If you have big data (for example 127 characters), you don’t see the beginning
 
 ## Requirements for the  field Email 
-> There must be an "@" and a dot after it
-> Any mail (mail, gmail, etc.)
-> There should be no gaps
-> Allowed wildcards '@', '.', '-'
-> Can't have two "@'s."
-> Underscore is not allowed
-> Before @ number of characters from 4 to 64 inclusive
-> After @ to the last point 2 to 32 inclusive
-> After the last point from 2 to 16 inclusively
-> No check for a one-time email
+> Must be the symbol "@" and the dot after it  
+> Any mail (mail, gmail, etc)  
+> There should be no gaps  
+> Allowed Special Symbols '@', '.', '-'  
+> Can’t have two "@"  
+> No underlining  
+> Before @ number of characters from 4 to 64 on  
+> After @ to last point from 2 to 32 switch on  
+> After the last point from 2 to 16 surprisingly  
 > Not case-sensitive
-> Cyrillic is not allowed
-> Two special characters in a row is not allowed
-> There can be more than one dot after @ (subdomains are possible)
-> The field is unique
-> Non-existent email is allowed 
-> A domain zone that does not exist can be
-> Can't start with a "-", but it can start with a number
-> Can only consist of numbers
+> Cyrillic is not allowed  
+> Two special characters in a row is not allowed  
+> A domain name may consist of numbers but not a zone  
+> There can be more than one dot after the dog (subdomains are possible)  
+> The field is unique  
+> Points up to dog can be   
+> Numbers can be in any part except after the last point  
+> A non-existent domain extension is possible  
+> Cannot start with "-", but can with a number  
+> Can only consist of digits  
 > The repeated email should cause an error
 > Email can be pasted from the buffer
 
