@@ -20,4 +20,4 @@
 
 # Environment
 
-Xiaomi Redmi Note 11
+Xiaomi Redmi Note 11, Android 11, MIUI 13
