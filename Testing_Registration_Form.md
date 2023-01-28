@@ -1,11 +1,9 @@
-# Testing the registration form
-http://itcareer.pythonanywhere.com
+# [Checklist and bug reports](https://docs.google.com/spreadsheets/d/1X263Fdo5oqqHBoUZ3Vclf1vxHvjuzAfENBIW8qD_SpQ/edit#gid=1816986114)
+ 
+ [RegistrationForm](http://itcareer.pythonanywhere.com)
 
 # Environment
 Windows 11 Chrome v 106.0.5249.62
-
-# Checklist and bug reports 
-[RegistrationForm](https://docs.google.com/spreadsheets/d/1X263Fdo5oqqHBoUZ3Vclf1vxHvjuzAfENBIW8qD_SpQ/edit#gid=1816986114)
 
 # Requirements
 
